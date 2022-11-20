@@ -1,9 +1,10 @@
-# telegram-scraper-adder
+# free-telegram-tool
 FREE TOOL FOR EVERYONE
 
 <b>NOTE</b> > THIS IS JUST A FREE VERSION, SO SOME PREMIUM FEATURES ARE RESTRICTED.
 
 IF YOU NEED THE PREMIUM VERSION OR ADVERTISING SERVICES ON TELEGRAM,
+
 WE ARE HERE > https://t.me/darkestscripts
 
 # INSTALLATION
@@ -34,7 +35,7 @@ MESSAGE US > https://t.me/darkestscripts
 > tsadder.py >>>> to add members
 
 
-IF YOU HAVE ANY FURTHER INTEREST OR DEAL OFFER, 
+IF YOU HAVE ANY FURTHER INTEREST OR DEAL OFFER
 
 MESSAGE US > https://t.me/darkestscripts
 
