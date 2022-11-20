@@ -21,7 +21,7 @@ WE ARE HERE > https://t.me/darkestscripts
 > pip install requests
 
 
-IF YOU ENCOUNTER ANY PROBLEM OR HAVE QUESTIONS,
+IF YOU ENCOUNTER ANY PROBLEM OR HAVE QUESTIONS
 
 MESSAGE US > https://t.me/darkestscripts
 
