@@ -1,4 +1,10 @@
 # free-telegram-tool
+
+
+![giphy](https://user-images.githubusercontent.com/118540164/203226968-5e426f3a-7124-4750-b6f5-63ffcb36eabb.gif)
+
+
+
 FREE TOOL FOR EVERYONE
 
 <b>NOTE</b> > THIS IS JUST A FREE VERSION, I HAVE THE GUI VERSION ALSO.
