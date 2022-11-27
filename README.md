@@ -14,8 +14,18 @@ IF YOU NEED THE GUI VERSION OR A FREE GUIDE ON TELEGRAM
 
 WE ARE HERE > https://t.me/darkestscripts
 
-# INSTALLATION
-> OPEN YOUR TERMINAL & RUN ;
+# SETUP COMMANDS
+> RUN THIS IN TERMINAL;
+
+> pkg update 
+
+> pkg upgrade
+
+> apt update
+
+> apt upgrade
+
+> pip install git
 
 > pip install telethon
 
@@ -28,18 +38,18 @@ WE ARE HERE > https://t.me/darkestscripts
 > pip install requests
 
 
-IF YOU ENCOUNTER ANY PROBLEM OR HAVE QUESTIONS
+FREE SUPPPORT TO EVERYONE
 
-MESSAGE US > https://t.me/darkestscripts
+SEND A MESSAGE > https://t.me/darkestscripts
 
 
-# USAGE
+# OPERATION
 
-> manager.py >>>> to add accounts
+> manager.py >>>> adding accounts
 
-> scraper.py >>>> to scrape members
+> scraper.py >>>> scraping members
 
-> tsadder.py >>>> to add members
+> tsadder.py >>>> adding members
 
 
 IF YOU HAVE ANY FURTHER INTEREST OR DEAL 
