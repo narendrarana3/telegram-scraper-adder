@@ -1,7 +1,8 @@
 # free-telegram-tool
 
 
-![giphy](https://user-images.githubusercontent.com/118540164/203226968-5e426f3a-7124-4750-b6f5-63ffcb36eabb.gif)
+
+![tggiff](https://user-images.githubusercontent.com/118540164/204122043-2b3d68f4-08f3-45d0-9996-ea65ad7d7049.gif)
 
 
 
