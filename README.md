@@ -18,10 +18,6 @@ WE ARE HERE > https://t.me/darkestscripts
 
 RUN THIS ON TERMINAL;
 
-> pkg update 
-
-> pkg upgrade
-
 > apt update
 
 > apt upgrade
