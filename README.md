@@ -12,7 +12,7 @@ FREE TOOL FOR EVERYONE
 
 IF YOU NEED THE GUI VERSION OR A FREE GUIDE ON TELEGRAM
 
-WE ARE HERE > https://t.me/webtarus
+WE ARE HERE > https://t.me/darkestscripts
 
 # SETUP COMMANDS
 
@@ -37,7 +37,7 @@ RUN THIS ON TERMINAL;
 
 FREE SUPPPORT TO EVERYONE
 
-SEND A MESSAGE > https://t.me/webtarus
+SEND A MESSAGE > https://t.me/darkestscripts
 
 
 # OPERATION
@@ -51,7 +51,7 @@ SEND A MESSAGE > https://t.me/webtarus
 
 IF YOU HAVE ANY FURTHER INTEREST OR DEAL 
 
-MESSAGE US > https://t.me/webtarus
+MESSAGE US > https://t.me/darkestscripts
 
 
 # DISCLAIMER : 
@@ -60,7 +60,7 @@ I MADE THIS TOOL FOR A FREE BENEFIT TO EVERYONE, I AM NOT RESPONSIBLE FOR ANY IL
 
 IF YOU HAVE ANY QUESTIONS OR DEALS
 
-MESSAGE US >  https://t.me/webtarus
+MESSAGE US >  https://t.me/darkestscripts
 
 
 DARK HUB TOOLS  ✅
