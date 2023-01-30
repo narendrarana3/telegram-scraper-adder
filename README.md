@@ -51,7 +51,7 @@ SEND A MESSAGE > https://t.me/webtarus
 
 IF YOU HAVE ANY FURTHER INTEREST OR DEAL 
 
-MESSAGE US > https://t.me/webtarus
+MESSAGE > https://t.me/webtarus
 
 
 # DISCLAIMER : 
